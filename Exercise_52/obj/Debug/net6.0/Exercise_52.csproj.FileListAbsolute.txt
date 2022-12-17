@@ -1,0 +1,15 @@
+C:\Users\пк\Desktop\Seminar_6\Exercise_52\obj\Debug\net6.0\Exercise_52.csproj.AssemblyReference.cache
+C:\Users\пк\Desktop\Seminar_6\Exercise_52\obj\Debug\net6.0\Exercise_52.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\пк\Desktop\Seminar_6\Exercise_52\obj\Debug\net6.0\Exercise_52.AssemblyInfoInputs.cache
+C:\Users\пк\Desktop\Seminar_6\Exercise_52\obj\Debug\net6.0\Exercise_52.AssemblyInfo.cs
+C:\Users\пк\Desktop\Seminar_6\Exercise_52\obj\Debug\net6.0\Exercise_52.csproj.CoreCompileInputs.cache
+C:\Users\пк\Desktop\Seminar_6\Exercise_52\bin\Debug\net6.0\Exercise_52.exe
+C:\Users\пк\Desktop\Seminar_6\Exercise_52\bin\Debug\net6.0\Exercise_52.deps.json
+C:\Users\пк\Desktop\Seminar_6\Exercise_52\bin\Debug\net6.0\Exercise_52.runtimeconfig.json
+C:\Users\пк\Desktop\Seminar_6\Exercise_52\bin\Debug\net6.0\Exercise_52.dll
+C:\Users\пк\Desktop\Seminar_6\Exercise_52\bin\Debug\net6.0\Exercise_52.pdb
+C:\Users\пк\Desktop\Seminar_6\Exercise_52\obj\Debug\net6.0\Exercise_52.dll
+C:\Users\пк\Desktop\Seminar_6\Exercise_52\obj\Debug\net6.0\refint\Exercise_52.dll
+C:\Users\пк\Desktop\Seminar_6\Exercise_52\obj\Debug\net6.0\Exercise_52.pdb
+C:\Users\пк\Desktop\Seminar_6\Exercise_52\obj\Debug\net6.0\Exercise_52.genruntimeconfig.cache
+C:\Users\пк\Desktop\Seminar_6\Exercise_52\obj\Debug\net6.0\ref\Exercise_52.dll

@@ -1,0 +1,15 @@
+C:\Users\пк\Desktop\Seminar_6\Exercise_47\obj\Debug\net6.0\Exercise_47.csproj.AssemblyReference.cache
+C:\Users\пк\Desktop\Seminar_6\Exercise_47\obj\Debug\net6.0\Exercise_47.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\пк\Desktop\Seminar_6\Exercise_47\obj\Debug\net6.0\Exercise_47.AssemblyInfoInputs.cache
+C:\Users\пк\Desktop\Seminar_6\Exercise_47\obj\Debug\net6.0\Exercise_47.AssemblyInfo.cs
+C:\Users\пк\Desktop\Seminar_6\Exercise_47\obj\Debug\net6.0\Exercise_47.csproj.CoreCompileInputs.cache
+C:\Users\пк\Desktop\Seminar_6\Exercise_47\bin\Debug\net6.0\Exercise_47.exe
+C:\Users\пк\Desktop\Seminar_6\Exercise_47\bin\Debug\net6.0\Exercise_47.deps.json
+C:\Users\пк\Desktop\Seminar_6\Exercise_47\bin\Debug\net6.0\Exercise_47.runtimeconfig.json
+C:\Users\пк\Desktop\Seminar_6\Exercise_47\bin\Debug\net6.0\Exercise_47.dll
+C:\Users\пк\Desktop\Seminar_6\Exercise_47\bin\Debug\net6.0\Exercise_47.pdb
+C:\Users\пк\Desktop\Seminar_6\Exercise_47\obj\Debug\net6.0\Exercise_47.dll
+C:\Users\пк\Desktop\Seminar_6\Exercise_47\obj\Debug\net6.0\refint\Exercise_47.dll
+C:\Users\пк\Desktop\Seminar_6\Exercise_47\obj\Debug\net6.0\Exercise_47.pdb
+C:\Users\пк\Desktop\Seminar_6\Exercise_47\obj\Debug\net6.0\Exercise_47.genruntimeconfig.cache
+C:\Users\пк\Desktop\Seminar_6\Exercise_47\obj\Debug\net6.0\ref\Exercise_47.dll
